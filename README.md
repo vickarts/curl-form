@@ -3,3 +3,7 @@
 <li>Upload to your PHP server</li>
 <li>Update sender.php with vendor url's</li>
 <li>That's it!</li>
+<p>I included extra files to fully demonstrate the process. However, the the two main files necessary for sending the data to multiple url's are as follows:
+<li>index.html</li>
+<li>sender.php</li>
+</p>
