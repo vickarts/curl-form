@@ -1,1 +1,5 @@
-Use curl to send form data to multiple url's
+<h2>Use curl to send form data to multiple url's</h2>
+<li>Clone repository</li>
+<li>Upload to your PHP server</li>
+<li>Update sender.php with vendor url's</li>
+<li>That's it!</li>
